@@ -2,3 +2,4 @@
 import "@hotwired/turbo-rails"
 import "controllers"
 import "bulma"
+import '@fortawesome/fontawesome-free/js/all'
